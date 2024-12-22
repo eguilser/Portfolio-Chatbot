@@ -60,4 +60,8 @@ This section explains how to set up both the **backend** and **frontend** enviro
 Open a terminal and run:
 ```cmd
 cd C:\Users\eguil\Desktop\chatbot-contextual\backend
-
+---
+#### 📍 Step 1: Create and activate a virtual environment:**
+```cmd
+python -m venv venv
+venv\Scripts\activate
